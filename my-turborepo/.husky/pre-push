@@ -1,0 +1,1 @@
+cd apps/api && node scripts/run-k6-tests.js
